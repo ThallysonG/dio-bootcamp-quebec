@@ -1,0 +1,10 @@
+O bootcamp da Dio com a parceria do Governo de Quebec vem proporcionando um ótimo ensino em Java com diversas disciplinas para treinar e deixar os devs mais preparados para o mercado de trabalho.
+
+O conteudo foi dividido em:
+
+25 cursos
+4  desafios de Projeto
+2  desafios de código
+1 live
+
+O prazo para a conclusão do bootcamp é até 26/11/2022 
